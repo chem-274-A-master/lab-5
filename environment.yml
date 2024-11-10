@@ -1,0 +1,14 @@
+name: lab-5
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - rdkit
+  - seaborn
+  - numpy
+  - jupyterlab
+  - notebook
+  - scikit-learn
+  - nglview
